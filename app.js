@@ -1,0 +1,1 @@
+function runDemo(){let v=+document.getElementById('mode').value;document.getElementById('result').textContent=({1:'Lower',2:'Moderate',4:'Higher'}[v])+' illustrative impact. Actual impact depends on distance, occupancy, and local conditions.';}
